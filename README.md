@@ -41,7 +41,7 @@ This project is a Property Management API built with Spring Boot 3. It follows t
 ### Testing
 You can use tools like Postman or curl to test the endpoints.
 
-Project Structure
+## Project Structure
 ```css
     src/
     └── main/
@@ -66,7 +66,7 @@ application.properties: Configuration file for the Spring Boot application.
 data.sql: Initial data setup script.
 
 
-### API Endpoints
+## API Endpoints
 Amenity Endpoints
 Create an Amenity
 
